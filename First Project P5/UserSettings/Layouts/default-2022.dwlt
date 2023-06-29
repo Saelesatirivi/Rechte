@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1387
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 38
+  controlID: 89
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -406,9 +406,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 965a0000
-    m_LastClickedID: 23190
-    m_ExpandedIDs: 0000000000ca9a3b
+    m_SelectedIDs: 5c5a0000
+    m_LastClickedID: 23132
+    m_ExpandedIDs: 000000005c5a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -576,9 +576,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: e0f9ffff
+      m_SelectedIDs: 90f6ffff
+      m_LastClickedID: -2416
+      m_ExpandedIDs: 2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -984,9 +984,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -4.9379516, y: 1.0573717, z: -4.521801}
+    m_Target: {x: -4.5568457, y: 0.90124893, z: -4.808358}
     speed: 2
-    m_Value: {x: -4.9379516, y: 1.0573717, z: -4.521801}
+    m_Value: {x: -4.5568457, y: 0.90124893, z: -4.808358}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1032,13 +1032,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.104988284, y: -0.88138723, z: 0.2328818, w: 0.3974307}
+    m_Target: {x: 0.10356822, y: -0.88560915, z: 0.23826584, w: 0.38503397}
     speed: 2
-    m_Value: {x: 0.10498561, y: -0.88136476, z: 0.23287585, w: 0.39742056}
+    m_Value: {x: 0.104142904, y: -0.88522786, z: 0.23958781, w: 0.38486823}
   m_Size:
-    m_Target: 10
+    m_Target: 10.957558
     speed: 2
-    m_Value: 10
+    m_Value: 11.941809
   m_Ortho:
     m_Target: 0
     speed: 2
