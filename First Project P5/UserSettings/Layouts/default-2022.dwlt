@@ -406,9 +406,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c0590000
-    m_LastClickedID: 22976
-    m_ExpandedIDs: 00000000c059000000ca9a3bffffff7f
+    m_SelectedIDs: 425a0000
+    m_LastClickedID: 23106
+    m_ExpandedIDs: 00000000425a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -436,7 +436,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c0590000
+    m_ExpandedIDs: 00000000425a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -578,7 +578,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 04fbffff
+      m_ExpandedIDs: 24fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1034,11 +1034,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.2854885, y: -0.4354846, z: 0.1478527, w: 0.84084755}
     speed: 2
-    m_Value: {x: 0.28938657, y: -0.44086286, z: 0.15263508, w: 0.8358217}
+    m_Value: {x: -0.2854885, y: 0.43548462, z: -0.1478527, w: -0.84084755}
   m_Size:
     m_Target: 16.885765
     speed: 2
-    m_Value: 16.158627
+    m_Value: 16.885765
   m_Ortho:
     m_Target: 0
     speed: 2
