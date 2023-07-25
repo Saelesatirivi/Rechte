@@ -13,10 +13,12 @@ public class Movement : MonoBehaviour
 
     public float minDistance = 0.05f;
 
+    private GameObject manager;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        manager = GameObject.Find("Manager");
     }
 
     // Update is called once per frame
@@ -36,7 +38,9 @@ public class Movement : MonoBehaviour
             }
             else
             {
-                print("Ballon ist durch");
+                manager.GetComponent<Manager>().ReduceLives(1);
+
+                gameObject.SetActive(false);
             }
         }
     }
